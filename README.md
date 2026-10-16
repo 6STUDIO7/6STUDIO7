@@ -18,7 +18,7 @@ Founded by Eric Heffner, **6STUDIO7** brings media, technology, and creative wor
 | Project | Purpose | Explore |
 | --- | --- | --- |
 | **Crypto Battle Buddy** | Plan your own crypto decisions and review how consistently you follow your rules. | [App Store](https://apps.apple.com/us/app/crypto-battle-buddy/id6819051402) · [Google Play](https://play.google.com/store/apps/details?id=com.cryptobattlebuddy.app) |
-| **Command Center V2.0** | Bring projects, staff, tasks, reports, and next steps into one clear view. In development. | [Current build (private)](https://github.com/6STUDIO7/command-center#readme) |
+| **Command Center V2.0** | Bring projects, staff, tasks, reports, and next steps into one clear view. In development. | [Public visual sample](https://github.com/6STUDIO7/6STUDIO7/blob/main/samples/README.md) |
 | **Influence This!** | More context. Clearer understanding. In development. | [Coming soon](https://6studio7.com/influence-this) |
 
 **Bring the idea. Let’s shape the next step.**  
