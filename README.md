@@ -13,6 +13,14 @@
 
 Founded by Eric Heffner, **6STUDIO7** brings media, technology, and creative work together through project consulting, creation, testing, storytelling, and ongoing support.
 
+### Meet 6STUDIO7
+
+Founder Eric Heffner introduces our services, published work, projects in development, and what comes next.
+
+**[Watch the introduction on X](https://x.com/6STUDIO7/status/2111538499656568952)** · [Watch on Instagram](https://www.instagram.com/6studio7_tm/reel/Dem1kZdPBYR/)
+
+Presented using Eric’s AI avatar and cloned voice.
+
 ### Our work
 
 | Project | Purpose | Explore |
